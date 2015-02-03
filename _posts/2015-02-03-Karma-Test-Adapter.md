@@ -50,7 +50,7 @@ you can create a JSON settings file called `karma-vs-reporter.json`.
 
 Example:
 
-```json
+```JSON
 {
     "$schema": "http://MortenHoustonLudvigsen.github.io/KarmaTestAdapter/karma-vs-reporter.schema.json",
     "karmaConfigFile": "karma.conf.test.js",
