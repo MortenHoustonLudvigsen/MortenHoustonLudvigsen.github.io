@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: Karma Test Adapter
+title: This is my first post
 ---
 
 A Visual Studio test explorer adapter for Karma
