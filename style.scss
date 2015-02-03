@@ -24,8 +24,9 @@ body {
 }
 
 .container {
-  margin: 0 15%;
-  /*max-width: 740px;*/
+  margin: 0 auto;
+  // max-width: 740px;
+  max-width: 80%;
   padding: 0 10px;
   width: 100%;
 }
